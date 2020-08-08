@@ -1,5 +1,5 @@
 # The Guessing Game 
-![](/pythonHomework/images/gamePicture.png)
+![](images/gamePicture.png)
 
 ## Game Description 
 #### The Guessing Game is an interactive game in created with `python` programming language 
@@ -55,5 +55,5 @@
 * Deploy the guessing game in python version 2.7 & 3.8.4
 
 ## ❤ **_Happy Coding_** ❤
-![](/pythonHomework/images/TechBridgeLogo.png)
+![](images/TechBridgeLogo.png)
 
