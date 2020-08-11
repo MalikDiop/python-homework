@@ -25,8 +25,6 @@
 * Commit to `GitHub` at least five times
 * Submit `.py` file and `GitHub` deployed link to Google classroom 
 * Use `python` module `random`
-
-    Can't use the module random due the pip numpy installation is showing error.
 * Prompt user to enter their name
 * Create variable named `number_of_guesses` and assign `0` to the variable 
 * Print a `string` that includes the players name
